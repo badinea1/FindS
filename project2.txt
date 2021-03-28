@@ -1,0 +1,39 @@
+creates a string array full of all NULLs for S
+prints out array of all NULLs
+
+find s function(){
+	if(data example is true){
+		for(each attribute){
+			compares it to S
+			if(strings are different AND S value is NULL){
+				replace NULL in S with value in input
+			}//end if
+			else if (strings are different){
+				replace value in S with ?
+			}//end else if
+		}//end for loop
+	}//end if
+	output S
+}//end find s
+
+
+if(int task = 1){
+	for(all data entries in file){		
+		takes input from file to create an array of strings for data entry
+		runs find s function	
+	}//end for
+}end if
+
+else if(int task = 2){
+	for(runs a certain number of times based off user input){
+		while(target concpet is not found){
+			for(each attribute){
+				generate a random number based on the number of choices for that attribute
+				assign that number to a different string in an array of strings for the random smaple
+			}//end for
+			Run find S 
+		}//end while
+		//Here will be some code either to output the nnumber fo tries to the screen or a file or something
+	}//end for
+}//end else if
+//end program
