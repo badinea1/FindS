@@ -7,7 +7,7 @@ This repository contains a Python based Find-S Algorithm Implementation.
 
 ## Contents
 The repository includes three main deliverables:
-  1. **main.py** & **train.py**: our source code
+  1. **main.py** & **train.py**: our source code 
   2. **histogram**: contains a frequency histogram for the Experimental Question in Task 3 and a data table of numerical results for the Experimental Question in Task 3.
   3. **Reflection**: a writeup that addresses the following:
        1. anything positive we enjoyed or learned from this assignment,
@@ -15,6 +15,8 @@ The repository includes three main deliverables:
        3. any parts of this assignment we found easy,
        4. any parts of this assignment we found challenging or couldn't get working correctly,
        5. Details on how our team functioned
+
+**NOTE**: The output trace our program produces for Task 2 will be shown in the terminal.
      
 ## Build Instructions for the HPC
 1. Method 1: Cloning repository
