@@ -35,12 +35,7 @@ def findS(data):
     if task == 1:
         print(s)
 
-# main function
-def main():
-    print("running main")
-
 if __name__ == "__main__":
-    main()
     print("Enter '1' to run task 1 & 2, enter '2' to run task 3 and the experimental question")
     
     # take in user input: '1' will use class example and provide a trace of the algorithm. '2' will run the algorithmm with randomly generated training examples
