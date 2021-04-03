@@ -1,6 +1,7 @@
-# Amulya Badineni, Michael Giordano, Rishi Konkesa, Jason Swick
-# CSC 426-01
-# Project 2
+# Authors: Amulya Badineni, Michael Giordano, Rishi Konkesa, Jason Swick
+# Filename: main.py
+# Description: Implements the Find-S algorithm, produces a trace we worked out in class for 
+#               the EnjoySport example with the training examples, learns the target concept
 
 import numpy as np
 from train import TrainingExample
