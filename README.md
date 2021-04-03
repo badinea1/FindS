@@ -17,6 +17,8 @@ The repository includes three main deliverables:
        5. Details on how our team functioned
 
 **NOTE**: The output trace our program produces for Task 2 will be shown in the terminal.
+
+**Link to Repository**: https://github.com/badinea1/FindS
      
 ## Build Instructions for the HPC
 1. Method 1: Cloning repository
