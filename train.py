@@ -1,3 +1,7 @@
+# Authors: Amulya Badineni, Michael Giordano, Rishi Konkesa, Jason Swick
+# Filename: train.py
+# Description: Implements a training example generator that generates random instances
+
 import random
 
 # TrainingExample object: will hold values for each attribute in a given training example. Also has "EnjoySport", which is whether or not the overall example is positive or negative. Will support the "example" function, which will allow for the generation of a random training example.
