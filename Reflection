@@ -3,21 +3,41 @@
 # Description: A writeup reflecting on the assignment.
 
 (1) Anything positive you enjoyed or learned from this assignment
-	
+	- We enjoyed being able to work together as a team to implement the Find-S algorithm. 
+	We liked being able to apply what we learned in class and design a machine that could learn based 
+	on data given to it. Working together allowed us to bounce ideas off each other so if we ever got stuck, 
+	we would be able to talk about our problems and arrive at the correct solution.
+
 (2) Anything negative you didn't like about this assignment
 	- Nothing
+	
 (3) Any parts of this assignment you found easy
-	- None
+	- We thought that the assignment was very straightforward as the instructions were unambiguous 
+	on what was expected. The Find-S algorithm took some time to implement, but we could complete it 
+	after debugging and taking advice from each other.
+	
 (4) Any parts of this assignment you found challenging or couldn't get working correctly
+	- The main part of this assignment that was difficult was generating the random examples for task 3. 
+	We had to spend a decent amount of time coming up with a way to create the random samples, and then we 
+	had some issues with implementing them in python. Learning python also posed some challenges as we never 
+	had any formal learning experience in class, so everything we know had to be self-learned for this project.
 	
-	
-(5) How the team functioned:
-	
-	What each team member contributed:
+(5) how your team functioned, including details such as what each team
+member contributed, how the team communicated with each other, and how
+team software development & design was accomplished
+	- Our team functioned well together and practiced excellent communication, professionalism, and responsibility. 
+	By working together and encouraging a culture of collaboration and constructive feedback, we were able to efficiently 
+	and effectively execute all parts of the project. The initial stages of our project required an inception meeting on 
+	Zoom where we decided what the project lifecycle would be and, at this point, established what the responsibilities
+	and goals of each team member are. By utilizing Live Share (a visual studio feature) to code our project, we were able 
+	to peer program effectively. At the beginning of the project timeline, we each decided to develop pseudocode for the project. 
+	When we met to peer program, we critiqued one another designs and began programming. In regards to the final product, 
+	Amulya and Michael constructed the Find-S algorithm and implemented the trace. Jason and Rishi constructed the random 
+	example generation and implemented the experimental function. As a unit, we developed unit tests and implemented the main. 
+	With the use of this peer programming style, we were able to quickly answer questions and receive feedback. If we had 
+	programmed individually, the program would have taken longer to implement as one. 
 
-	How the team communicated with each other:
-	
-	
-	How team software development & design was accomplished
-	 
 (6) Any other remarks you want to make
+	- Overall this was a very fulfilling experience. Applying a classroom learning experience to an actual application 
+	drove home the concepts in an unforgettable manner. 
+
