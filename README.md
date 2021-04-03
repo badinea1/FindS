@@ -8,7 +8,7 @@ This repository contains a Python based Find-S Algorithm Implementation.
 ## Contents
 The repository includes three main deliverables:
   1. **main.py** & **train.py**: our source code 
-  2. **histogram**: contains a frequency histogram for the Experimental Question in Task 3 and a data table of numerical results for the Experimental Question in Task 3.
+  2. **Histogram & Descriptive Statistics.pdf**: contains a frequency histogram for the Experimental Question in Task 3 and a data table of numerical results for the Experimental Question in Task 3.
   3. **Reflection**: a writeup that addresses the following:
        1. anything positive we enjoyed or learned from this assignment,
        2. anything negative we didn't like about this assignment,
