@@ -9,7 +9,7 @@
 	we would be able to talk about our problems and arrive at the correct solution.
 
 (2) Anything negative you didn't like about this assignment
-	- Nothing, the assignment difficulty and workload was very reasonable and therefore all parts were enjoyable.
+	- Nothing
 	
 (3) Any parts of this assignment you found easy
 	- We thought that the assignment was very straightforward as the instructions were unambiguous 
@@ -19,8 +19,10 @@
 (4) Any parts of this assignment you found challenging or couldn't get working correctly
 	- The main part of this assignment that was difficult was generating the random examples for task 3. 
 	We had to spend a decent amount of time coming up with a way to create the random samples, and then we 
-	had some issues with implementing them in python. Learning python also posed some challenges as we never 
-	had any formal learning experience in class, so everything we know had to be self-learned for this project.
+	had some issues with implementing them in python. In particular, the TrainingExample class
+	took some time to properly implement since no group members were familiar with object oriented program in 
+	Python. Learning Python also posed some challenges as we never had any formal learning experience in classes, 
+	so everything we know had to be self-learned for this project.
 	
 (5) how your team functioned, including details such as what each team
 member contributed, how the team communicated with each other, and how
